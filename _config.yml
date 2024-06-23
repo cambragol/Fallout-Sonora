@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Full English Translation
-    description                           : Every dialogue has been translated with attention to the nuances and lingo of the Sonoran Wasteland.
+    description                           : Every dialogue has been translated with attention to the nuances and lingo of the Fallout Wasteland.
     fontawesome_icon_name                 : magic
     
   - title                                 : English Graphics
@@ -49,7 +49,7 @@ features                                  :
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Fallout 2 Community Edition
-    description                           : Exclusively designed and tested with Fallout 2 CE, making it designed for MacOS users.
+    description                           : Exclusively designed and tested with Fallout 2 CE, making it perfect for MacOS users.
     fontawesome_icon_name                 : sync
 
   - title                                 : Pure Vanilla
