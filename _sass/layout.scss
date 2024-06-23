@@ -395,7 +395,8 @@ nav > ul li a:active {
 	width: 550px;
 	-webkit-clip-path: url(#screenMask);
 	clip-path: url(#screenMask);
-	margin-left: 26px;
+	//margin-left: 26px;
+	margin-left: -23px;
 	margin-top: 23px;
 }
 
