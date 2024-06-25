@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Full English Translation
-    description                           : Every dialogue has been translated with attention to the nuances and lingo of the Fallout Wasteland.
+    description                           : Every dialogue has been translated with attention to the nuances and meaning of the original version.
     fontawesome_icon_name                 : magic
     
   - title                                 : English Graphics
@@ -53,11 +53,11 @@ features                                  :
     fontawesome_icon_name                 : sync
 
   - title                                 : Pure Vanilla
-    description                           : No extras, addons or tweaks. Just the original Fallout Sonora, in English
+    description                           : No extras, addons or tweaks. Just the original and latest Fallout Sonora (1.14), in English.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Perfect Parity
-    description                           : Perfect line for line parity with the original language, so no bugs or issues (we hope)
+  - title                                 : Fallout Lingo
+    description                           : Attention has been paid to making the npc dialogue and game language conform to the style of the original masterpiece, Fallout.
     fontawesome_icon_name                 : star
 
   - title                                 : # Smart App Banner
