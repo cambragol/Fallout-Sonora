@@ -131,7 +131,7 @@ sass:
 # Exclude these files from your production _site
 exclude:
   - LICENSE
-  - README.md
+  #- README.md
   - CNAME
 
 collections:
