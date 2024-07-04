@@ -13,7 +13,7 @@ presskit_download_link                    : readme.md                           
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Fallout Sonora                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Fallout Sonora by Nevada Band, in English, for Fallout 2 CE. The all-time classic mod for the all-time classic game.
+app_description                           : Fallout Sonora by [Nevada Band](https://fallout--nevada-ucoz-ru.translate.goog/index/fallout_sonora/0-59?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp), in English, for Fallout 2 CE. The all-time classic mod for the all-time classic game.
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
