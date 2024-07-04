@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Download
-include_in_header: true
+include_in_header: false
 ---
 
 # Changelog
