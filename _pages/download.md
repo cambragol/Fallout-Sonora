@@ -4,7 +4,7 @@ title: Download
 include_in_header: true
 ---
 
-# Download
+# [Download](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat)
 
 <br>
 
