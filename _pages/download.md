@@ -5,6 +5,7 @@ include_in_header: true
 ---
 
 ### `Install Instructions`
+
 # **Version 0.9**
 
 1. Download and install [Fallout: Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
@@ -16,5 +17,3 @@ include_in_header: true
 <br>
 
 # [Download](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat)
-
-<br>
