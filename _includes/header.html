@@ -15,7 +15,13 @@
 			{% endif %}
 			<div class="divider"></div>
 		</div>
-		<p class="headerName"><img class="headerImage" src="{{ site.url}}/Fallout-Sonora/assets/fallout-sonora-logo.png" ></p>
+
+			{% if page.url != '/' %}
+				<a href="../" target="_self"><img class="headerImage" src="{{ site.url}}/Fallout-Sonora/assets/fallout-sonora-logo.png" ></a>
+			{% else %}
+				<img class="headerImage" src="{{ site.url}}/Fallout-Sonora/assets/fallout-sonora-logo.png" >
+			{% endif %}
+		<!--<p class="headerName"><img class="headerImage" src="{{ site.url}}/Fallout-Sonora/assets/fallout-sonora-logo.png" ></p>-->
 		<!--<p class="headerName">{{ site.app_name }}</p>-->
 	</div>
 	<nav class="scroll">
