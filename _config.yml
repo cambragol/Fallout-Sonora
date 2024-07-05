@@ -37,27 +37,27 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Full English Translation
-    description                           : Every dialogue has been translated with attention to the nuances and meaning of the original version.
+    description                           : Every line of dialogue has been meticulously translated to preserve the nuances and spirit of the original post-apocalyptic narrative.
     fontawesome_icon_name                 : magic
     
   - title                                 : English Graphics
-    description                           : All graphics have been converted or remade with English text.
+    description                           : All in-game graphics have been faithfully converted or remade with English text to maintain immersion in the wasteland.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Ron Perlman Narrations
-    description                           : Death narrations, ending narrations, and the credits movie have all been given that authentic Ron Perlman touch.
+    description                           : Experience the iconic Ron Perlman narrations for death sequences, endings, and the credits, adding an authentic touch to your journey through the nuclear ruins.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Fallout 2 Community Edition
-    description                           : Exclusively designed and tested with Fallout 2 CE, making it perfect for MacOS users.
+    description                           : Specially tailored and rigorously tested with Fallout 2 CE, ensuring seamless compatibility for MacOS adventurers.
     fontawesome_icon_name                 : sync
 
   - title                                 : Pure Vanilla
-    description                           : No extras, addons or tweaks. Just the original and latest Fallout Sonora (1.14), in English.
+    description                           : No frills, no mods, no extras. Just the raw, unaltered Fallout Sonora (version 1.14) translated into English for a pure, nostalgic experience.
     fontawesome_icon_name                 : adjust
   
   - title                                 : Fallout Lingo
-    description                           : Attention has been paid to making the npc dialogue and game language conform to the style of the original masterpiece, Fallout.
+    description                           : Great care has been taken to ensure NPC dialogue and game language stay true to the gritty, dark humor and style of the original Fallout classic.
     fontawesome_icon_name                 : star
 
   - title                                 : # Smart App Banner
