@@ -5,8 +5,7 @@ include_in_header: true
 ---
 
 # Download
-This page will keep track of the changes made to new versions of the translation.
-
+Download and install instructions for Fallout Sonora in English
 <br>
 
 ### `Install Instructions`
