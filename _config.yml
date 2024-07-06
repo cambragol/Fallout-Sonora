@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : English Graphics
     description                           : All in-game graphics have been faithfully converted or remade with English text to maintain immersion in the wasteland.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : brush
 
   - title                                 : Ron Perlman Narrations
     description                           : Experience the iconic Ron Perlman narrations for death sequences, endings, and the credits, adding an authentic touch to your journey through the nuclear ruins.
@@ -50,11 +50,11 @@ features                                  :
 
   - title                                 : Fallout 2 Community Edition
     description                           : Specially tailored and rigorously tested with Fallout 2 CE, ensuring seamless compatibility for MacOS adventurers.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : apple
 
   - title                                 : Pure Vanilla
     description                           : No frills, no mods, no extras. Just the raw, unaltered Fallout Sonora (version 1.14) translated into English for a pure, nostalgic experience.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : ice-cream
   
   - title                                 : Fallout Lingo
     description                           : Great care has been taken to ensure NPC dialogue and game language stay true to the gritty, dark humor and style of the original Fallout classic.
