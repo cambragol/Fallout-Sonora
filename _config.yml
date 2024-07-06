@@ -50,11 +50,11 @@ features                                  :
 
   - title                                 : Fallout 2 Community Edition
     description                           : Specially tailored and rigorously tested with Fallout 2 CE, ensuring seamless compatibility for MacOS adventurers.
-    fontawesome_icon_name                 : apple
+    fontawesome_icon_name                 : apple-alt
 
   - title                                 : Pure Vanilla
     description                           : No frills, no mods, no extras. Just the raw, unaltered Fallout Sonora (version 1.14) translated into English for a pure, nostalgic experience.
-    fontawesome_icon_name                 : fa-ice-cream
+    fontawesome_icon_name                 : info-circle
   
   - title                                 : Fallout Lingo
     description                           : Great care has been taken to ensure NPC dialogue and game language stay true to the gritty, dark humor and style of the original Fallout classic.
