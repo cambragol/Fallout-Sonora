@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Ron Perlman Narrations
     description                           : Experience the iconic Ron Perlman narrations for death sequences, endings, and the credits, adding an authentic touch to your journey through the nuclear ruins.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : star
 
   - title                                 : Fallout 2 Community Edition
     description                           : Specially tailored and rigorously tested with Fallout 2 CE, ensuring seamless compatibility for MacOS adventurers.
@@ -58,7 +58,7 @@ features                                  :
   
   - title                                 : Fallout Lingo
     description                           : Great care has been taken to ensure NPC dialogue and game language stay true to the gritty, dark humor and style of the original Fallout classic.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : comments
 
   - title                                 : # Smart App Banner
     description                           : # Display a smart app banner on iOS devices.
