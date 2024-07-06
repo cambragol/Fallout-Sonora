@@ -10,6 +10,29 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Release`
+# **Version 0.91**
+This is the first release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Based On
+- Fallout: Sonora 1.14
+
+#### What's New
+- Fixes for Dayglow naming
+- Changed black prospector to rogue scavenger
+- Aligned all zombie references to ghouls, except in Vault 27
+- Aligned all San-Brahmin to San Brahmin
+- Fixed a few battery reference to Fuel cell
+- Made several characters (caravaners) say ya' and yer' more often
+- Changed 'nuclear scientists' to 'power plant operators'
+- Fixed several stray 'tinker' references to Tinsmiths.
+- Many small dialogue specific fixes in numerous locations.
+
+#### Bug Fixes
+- None yet.
+
+<br>
+
+### `Initial Release`
 # **Version 0.9**
 This is the first release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
