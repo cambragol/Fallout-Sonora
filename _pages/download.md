@@ -12,7 +12,7 @@ Download and Install Instructions for Fallout: Sonora in English
 <br>
 
 ### `Install Instructions`
-# **Version 0.9**
+# **Version 0.91**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download the .dat file named 'patch001.dat'
