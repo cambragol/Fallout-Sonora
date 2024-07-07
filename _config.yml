@@ -13,7 +13,7 @@ presskit_download_link                    : download                            
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Fallout Sonora                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Fallout Sonora by Nevada Band, in English, for Fallout 2 CE. The masterpiece mod for the all-time classic game.
+app_description                           : Fallout Sonora by Nevada Band, in English, for Fallout 2 CE. The masterpiece mod for the all-time classic game. Now with Dayglow DLC!
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
