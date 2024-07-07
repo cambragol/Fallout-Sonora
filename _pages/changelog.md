@@ -26,6 +26,10 @@ This is the first release of the translation. It is still **untested**, but comp
 - Changed 'nuclear scientists' to 'power plant operators'
 - Fixed several stray 'tinker' references to Tinsmiths.
 - Many small dialogue specific fixes in numerous locations.
+- consolidated signal flares etc. to 'flares' or 'flare rounds'
+- removed all instances of cartridge, replaced with rounds or bullets, like Fallout 1
+- removed ... characters, as it appeared garbled
+- improved dialogues of Phoenix market sellers
 
 #### Bug Fixes
 - None yet.
