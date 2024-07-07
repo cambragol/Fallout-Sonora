@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Download
-Download and Install Instructions for Fallout: Sonora in English, for Fallout 2 CE
+Download and Install Instructions for Fallout: Sonora, and the Fallout: Sonora Dayglow DLC in English, for Fallout 2 CE
 
 ### [Download patch001.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat)
 
