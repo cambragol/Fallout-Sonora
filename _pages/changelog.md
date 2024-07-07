@@ -13,10 +13,13 @@ This page will keep track of the changes made to new versions of the translation
 # **Version 0.91**
 This is the first release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
 #### Based On
-- Fallout: Sonora 1.14
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
 
 #### What's New
+- Added patch002.dat for Dayglow DLC
 - Fixes for Dayglow naming
 - Changed black prospector to rogue scavenger
 - Aligned all zombie references to ghouls, except in Vault 27
