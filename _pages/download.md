@@ -7,7 +7,7 @@ include_in_header: true
 # Download
 Download and Install Instructions for Fallout: Sonora, and the Fallout: Sonora Dayglow DLC in English, for Fallout 2 CE.
 
-Click the icons below to download the translations for Fallout: Sonora or the Sonora Dayglow DLC. The translations are in .dat files, which can be installed by following the 'Install Instructions' below.
+Click the icons below to download the pre-release translations for Fallout: Sonora or the Sonora Dayglow DLC. The translations are in .dat files, which can be installed by following the 'Install Instructions' below.
 
 [<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Sonora.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat "patch001.dat")[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Dayglow.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch002.dat "patch002.dat")
 
