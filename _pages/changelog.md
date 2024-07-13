@@ -10,6 +10,33 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.94**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+- fixed wrong quotations marks which came out garbled
+- changed most PC 'Thank You' responses to 'Thanks'
+- Added more use of 'gotta' for PC
+- fixed (hopefully) incorrect formatting in pipboy.msg (text too long)
+- Made all cases of 'tinsmiths' into proper noun, 'Tinsmiths'
+- Small fixes to Geronimo and Genaro
+- Changed 'Garbage Men' of Garage City to 'Scavengers'
+- Fixes to Kogan based off feedback
+- Fixes to Eugene and Pa based off feedback
+- Lots of Fixes to Lord of Phoenix
+- Fixes to flow of Cardinals quests
+
+#### Bug Fixes
+- None yet.
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.93**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
