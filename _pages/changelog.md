@@ -10,6 +10,30 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.95**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+- Fixes to 2 dialogues in Garage City based off feedback (Perry)
+- Numerous fixes to Geronimo, to improve his 'herder' dialect
+- Fixes to location names in Dayglow
+- Fixed skills names Barter, Sneak, Outdoorsman, Lockpick, Small Guns, Big Guns, and Unarmed
+- Fixed references to firewater, tequila and moonshine. Mostly tequila now
+- Made all San Brahmin have more 'Indian/savage' dialect
+- Small/Medium fixes to all major characters in San Brahmin
+- Added naming and categories to CombatAI.msg for future improvements
+
+#### Bug Fixes
+- None yet.
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.94**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
