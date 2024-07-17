@@ -10,6 +10,34 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.96**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+- added 'skags' as a swear word
+- fixed some item descriptions (Perry and myself)
+- fixed some name references -Granny, Geronimo, and tribal child (Perry and myself)
+- fixed naming of 'burst' graphic (was missing a period)
+- small fixes in San Brahmin and Flagstaff
+- numerous fixes in Garage City (Perry)
+- fixes to Phoenix postal quests
+- fixed cult 'novice' references to Acolyte. Novice still used with brotherhood.
+- numerous small fixes in Phoenix cathedral mini-quests
+- fixes to Granny Adonsia (Perry)
+- fix to Levi dialogue in Inferno - missing a bracket
+- Perk fix...several perks misnumbered.
+
+#### Bug Fixes
+- None yet.
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.95**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
