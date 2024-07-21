@@ -10,6 +10,34 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.98**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+- fixed Henry the Quartermaster
+- fixed 'networks' to 'nets' in a few dialogues.
+- fixed pathologies to symptoms
+- Casa Nueva references switched to 'town' form 'city'
+- numerous fixes to Wang Chong
+- Fixes to Senor Alvaro and Lo (Fallout_Boy)
+- numerous large fixes to Rangers Base NPCs (more to come)
+- removed em dash from Dayglow dialogues
+- fixed doubled dialogue for Lord of Phoenix (Foxx)
+- replaced campesino with peasant
+- fixes to Officer Bell
+- fixed a few curled apostrophes
+
+#### Bug Fixes
+- None yet.
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.97**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
