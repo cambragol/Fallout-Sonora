@@ -10,6 +10,38 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.99**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+- tweaked Rangers immigrant dialogue to handle quest stages better
+- Fixed Ranger radio/spy quest to make the logic correct for accessing dialogue options
+- Fixed leftover references to 'Daylight' ... fixed to 'Dayglow'
+- Fixed Ranger Radio messages and Radio interface language
+- Multiple small fixes to Rangers area
+- Renamed several Ranger maps
+- Changed rippers to 'reavers'
+- Added various fixes to Rangers areas, thanks to Perry
+- Added some item and scene message fixes thanks to Perry
+- Fixed Kil to Keel, was misnamed in scrname.msg
+- Made multiple fixes to multiple files to clarify use of ghouls, demons, and reavers. Added exposition to clarify the connections between these terms.
+- Fixes to Santa Ana thanks to Fallout_Boy
+- Various dialogue fixes thanks to Fallout_Boy
+- renamed mutafruit to mutfruit
+- Fixed Diana
+- Replaced reconnaissance with 'scouting' in most cases
+
+#### Bug Fixes
+- None yet.
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.98**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
