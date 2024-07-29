@@ -10,6 +10,40 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.991**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+- removed some stray references to the 'Creator' and replaced with 'Master'
+- fixed some missing names/lines (Fallout_Boy)
+- renamed Pile/Heap/Kucha to 'Gomer' (Fallout_Boy)
+- stray 'shadows' references corrected to 'Nightkin'
+- some corrections to repeated text (token of gratitude etc.) (Fallout_Boy)
+- fixes to location names
+- Slight tweaking to pipboy messages layout
+- some item and group naming/description fixes (Perry)(Fallout_Boy)
+- consolidated Los Panchos boss names (Fallout_Boy)
+- attempted to improve clarity between Blue Shields and highwaymen (may need work still)
+- fixes to 'Platform' area dialogues
+- fixed some male references to be 'neutral' to account for female models
+- fixes to Casa Grande area dialogues
+- fixes to Kogan and Lucas and Garage City dialogues (Perry)
+- stray 'tinkerers' references changed to 'Tinsmiths'
+- fixed some incorrect references to 'road armor'
+- fixes to Ranger Agatha, cadet Presley and Ranger general and other Ranger dialogues
+- fixes to robot grandpa (Fallout_boy)
+
+#### Bug Fixes
+- None yet.
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.99**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
