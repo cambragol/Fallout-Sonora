@@ -10,6 +10,33 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.993**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+- removed (female) from several lines of dialogue
+- fixed mobile fortress encoutner (Fallout_Boy)
+- slight fix to Padre encounter (Fallout_Boy)
+- added floating lines for hostile scavengers in Garage
+- All pipboy entries reformatted
+- Some Info.msg lines improved
+- fixed use of 'surely' everywhere to suitable terms
+- Jackal Burrows to 'Dens'
+- Fixes to 'Survey' quest at the Ranger Radio Station
+- Multiple fixes to all Jackal PC dialogue
+
+#### Bug Fixes
+- None yet.
+
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.992**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
