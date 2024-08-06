@@ -11,7 +11,7 @@ This patch *only* works when both patch001.dat and patch002.dat are being used. 
 
 This patch and its scripts have had only limited testing, so use at your own risk. 
 
-[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Sonora.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat "patch001.dat")
+[patch003.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch003.dat "patch003.dat")
 
 <br>
 
