@@ -16,6 +16,17 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 <br>
 
 ### `Initial Pre-Release`
+
+# **Version 0.2**
+This is the first pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+- Fixed incorrect text line reference in MCRio.ssl
+- Fixed incorrect text line reference in MCBoss.ssl
+- Finished incomplete and non-working scripting for DCCtznE.ssl
+
+<br>
+
 # **Version 0.1**
 This is the first pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
