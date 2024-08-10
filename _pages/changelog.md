@@ -10,6 +10,37 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.994**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+- fixed many stilted uses of you are to you're
+- fixed some pro_scene descriptions that were missing articles
+- numerous fixes to multiple Casa Grande NPCs
+- major fixes to Casa Grande boss
+- numerous fixes to multiple Blue Shield NPCs
+- major fixes to Blue Shield boss
+- fixed some quotation and apostrophes that were garbled
+- restored 'attitude' to 'reaction', based off script comments
+- restored 'glory' to 'karma', to synch with fallout 1/2, graphics etc.
+- fixed Jimador to Himador
+- changed Casa Grande water station to 'water pump'
+- fixed an incorrect reference to the 'Long Haulers'
+- fixed a few incorrect 'highwaymen' references
+- Finished complete pass on all Casa Grande NPCs and fixed all issues.
+
+#### Bug Fixes
+- None yet.
+
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.993**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
