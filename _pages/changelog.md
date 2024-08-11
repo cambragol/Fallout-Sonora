@@ -10,6 +10,26 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.995**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+- modified ZcImgrnt, DCCtznE, NCHimadr, NCMer, HCPost, HCSolder, HSComp, ACCtzCav, CCBosGrd, CCNina, CCNinb, AFTinTan, and EncMexSC script files to standardize Spanish_trait handling.
+- modified the matching dialogue files to bring standardized Spanish_trait handling (double angular quotes for Spanish) multiple files required additional lines
+- Fixed DCCtzn and NCHimadr scripts, as they were broken/unfinished at several points
+- Fixed stray Fame/Glory entries to Karma
+
+#### Bug Fixes
+- None yet.
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.994**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
