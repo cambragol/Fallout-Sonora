@@ -10,6 +10,44 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.996**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+
+- removed references to 'change the topic', replaced with Fallout 1 lines
+- removed references to 'on your mind' replaced with Fallout 1 style lines
+- tidied up computer interface dialogues
+- renamed some videos
+- renamed Casa Grande hacienda to mansion
+- renamed (restored) 10mm SFB to NSP - original intent of authors
+- renamed commandant to sheriff
+- fixed some naming of 'order' to Brotherhood or 'church'
+- added dialogue lines for GC brahmin quest to respond to 'buying' the brahmin
+- All Casa Nueva dialogues and quests modified by following dialogue trees
+- Fixed Flower Child perk to 'Rehabilitation'
+- Quarry changed to concrete plant for consistency
+- Micro Fusion Cell entries corrected, all Small Energy Cell references removed
+- Generator Fusion Cell renamed
+- All battery entries for all three types synchronized through scripts for accurate reference
+- All Two-Sun dialogues and quests modified by following dialogue trees
+- Tinsmiths given more consistent 'cyborg' language
+- Sporonos renamed to sporebearer
+- fixed energy weapon ammo use
+- renamed Reinforced Cattle Prod
+
+#### Bug Fixes
+- None yet.
+
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.995**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
