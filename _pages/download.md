@@ -11,7 +11,8 @@ Click the icons below to download the pre-release translations for Fallout: Sono
 
 ### `Initial Pre-Releases`
 
-->[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Sonora.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat "patch001.dat")[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Dayglow.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch002.dat "patch002.dat")<-
+[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Sonora.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat "patch001.dat")[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Dayglow.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch002.dat "patch002.dat") 
+
 <!--### [Download patch001.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat)
 ### [Download patch002.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch002.dat)-->
 
