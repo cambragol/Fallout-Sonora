@@ -17,6 +17,26 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 
 ### `Initial Pre-Release`
 
+# **Version 0.4**
+This is the first pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+
+- updated OBJ_CAR.ssl to account for trying to power with a Generator Fusion Cell
+- fixed brahmin quest at Bar to account for buying the brahmin, rather than stealing - GCBarmen.ssl and GCBrmPsA.ssl
+- fixed TCBoss.ssl to use correct dialogue line when discussing ZAX being destroyed
+- fixed TCCrvBos.ssl to use correct node  when responding to paying for escort
+- fixed TCCrvQst.ssl to only off generator cell if the quest is started. Moved quest start as well and added zReply to use amigo/amiga correclty
+- fixed TCCtzTlk.ssl to add missing dialogue from dialogue file.
+- fixed TCCult.ssl to give Science check different results. Original had identical results.
+- fixed TCTins.ssl to make 'worker' and 'guard' tinsmiths have different 'look' descriptions and different floating lines.
+- fixed NCApcAst.ssl to force the PC to correctly work to get access to pre-war medicines/drugs
+- multiple small fixes to NCApcBos to improve dialogue and include missing lines
+- fixed NCQuestA to prevent endlessly introducing oneself
+- improved NCSilosA.ssl to make dilalogue smoother
+
+<br>
+
 # **Version 0.3**
 This is the first pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
