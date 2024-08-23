@@ -10,6 +10,47 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.997**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+
+- changed all location label graphics to correct font, standarized size (like Fallout 1)
+- several small fixes thanks to OnlyALad
+- Major fixes to 13 Perks thanks to Gusterballs1983: Scrounder's Sense, Computer Whiz, Biker,
+Forgotten Hero, Eternal Wanderer (post game play), Wanderer's Intuition, Wasteland Lessons, Math Logic, Block Strick, Hollywood karma, Intimidation, Pack Rat (description only), Alcohol Boots and Reduces (4), Purification, and Radiation Harms
+- Small fixes to Editor.msg including restoration of 'drugs','addiction''addicted' etc.
+- Chems references converted to drugs, except where originally chems
+- Some map names changed, Worldmap location of 'Platform' changed to 'El Faro Pier'
+- Small fixes to pro-item.msg fixing numerous items some thanks to OnlyALad and play-through
+- Numerous small fixes to pro_scen.msg from play-through
+- Coupier changed to Dealer or Card Dealer
+- 'Flyers' changed to 'Floaters', dialogues around them improved slightly to lead to this renaming.
+- San Felipe and El Faro Pier dialogues all fixed through play-through and script reference
+- 'Fishing Club' in El Faro Pier changed to bar or 'Old Lighthouse'
+- Thelma's dialogue around 'dad' improved
+- Several encoutner dialogues improved 'Gold!' 'Henry Beamis'
+- Big update for Hermosillo, including adding Espanol perk dialogue paths for all NPCs, and tweaking all English paths to broken/partially broken English
+- Changed fonts to original Fallout 2 fonts, to add back Spanish characters
+- extensive fixes to 'powerplant spy' quest in Phoenix, affecting numerous dialogues.
+- Small fixes to numerous Two-Sun NPCs after play-through
+- small fixes to Chris' interactions/quest thanks to OnlyALad
+- made primitive fishermen use mix of English and Yaqui Rather than cave-man talk
+- fixed Block scripts language (feedback for destroying fence etc)
+- fixed Highwaymen title (for becoming a highwayman)
+
+#### Bug Fixes
+- None yet.
+
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.996**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
