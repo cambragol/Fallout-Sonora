@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Script Patch
-This page contains the optional 'script' patch (patch003.dat) file for bugs and dialogue/quest fixes and improvements for Fallout: Sonora.
+This page contains the optional 'script patch' (patch003.dat) file for bugs and dialogue/quest fixes and improvements for Fallout: Sonora.
 
 This optional patch *only* works when both patch001.dat and patch002.dat are being used. Dialogue for these fixes are already contained in the base translation found on patch001.dat and patch002.dat. This 'script' patch file simply activates or gives access to the already included fixes. These fixes do not show up in the vanilla, base translation (though they are there).
 
