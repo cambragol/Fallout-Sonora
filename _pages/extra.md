@@ -17,6 +17,19 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 
 ### `Initial Pre-Release`
 
+# **Version 0.5**
+This is the first pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+
+- Fixed the feedback for ZSblock to not spam 'destroying' process with constant 'look' messages
+- Modified HCBoss, HCPrisnr, HCRunchA, HCRunchB, and HCRunchC to incorporate use of the Espanol Perk
+
+<br>
+
+
+### `Initial Pre-Release`
+
 # **Version 0.4**
 This is the first pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
