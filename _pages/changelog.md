@@ -10,6 +10,52 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.998**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+
+- fixed Leviah to Levi
+- Many, many small updates thanks to OnlyALad
+- San Isidro to San Ysidro
+- The Dayglow to 'Dayglow'
+- Long Haulers to Far Go Traders
+- Seth to Set
+- Nightkin dumbed down a tab
+- standardized Albert De Santi name
+- standardized flare rounds to 'flares' 'modified flares' and 'reinforced flares'
+- tin can to Tinsmith, except when PC is addressed while wearing Power Armor
+- Badges and tokens fixed to 'dog tags'
+- Some chems references switched to drugs
+- Power screwdriver to Atomic Cutter
+- Laser weapon to Laster Emitter (hand made one from Garage City)
+- Emitter to 'Radiator Gun'
+- Manhole in sewer hallway to 'Sewer Hatch'
+- various fixes to items in pro_scen, thanks to OnlyALad
+- 'Don't even think about' references diversified to more natural lines
+- 'Treepass' on half of Garage City and most of Inferno
+- fire bombs to molotov cocktails
+- Alice to Elisa
+- Gart to Garth
+- Centipede weapon description made more accurate
+- Vreya to Vree
+- some air spears to pneumatic spears
+- fixed Puerto level names numbering to fix error message
+- Fixed some pro_crit messages - thanks OnlyALad
+- numerous/various fixes from Fic_Mon
+
+#### Bug Fixes
+- None yet.
+
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.997**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
