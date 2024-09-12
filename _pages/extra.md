@@ -17,6 +17,29 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 
 ### `Initial Pre-Release`
 
+# **Version 0.6**
+This is the first pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+
+- upgraded Espanol Trait to translate mexican and spanish 'combat taunts' (multiple scripts)
+- fixed bug with Nightkin Boss rescue in Dayglow (YCMutBos.ssl)
+- fixed incorrect reply bug CCNina.ssl
+- fixed incorrect reply bug CCCrvBos.ssl
+- fixed CCBoss.ssl to prevent big response being repeated on main dialogue node
+- Added fix to PCBdLohB.ssl to have floating message of revenge after end of quest
+- fixed goodbye message in FCSlvRdr.ssl
+- fixed FCCtznB.ssl to make better transition to offer to cure kid
+- changed FCBishop to have 'idiot' node more in line with other idiot nodes
+- Added 'Brahmin Sausages' to Flagstaff barman and used this for food delivery quest (FCBarmen.ssl and FCAdmin.ssl)
+- Added Espanol_Trait to GCPit.ssl dialogue
+- Fixed GCGate.ssl to have correct result for successful perception check - also added Jackal quest ditch node.
+- Added node to GCBrmAtk.ssl to have better responses for buying the brahmin
+- fixed VCRobot.ssl to differentiate between grandson/daughter, and use Espanol_Trait
+- Added Espanol_Trait to ZIUseStp.ssl
+
+<br>
+
 # **Version 0.5**
 This is the first pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
@@ -26,9 +49,6 @@ This is the first pre-release of the script patch. It is still mostly **untested
 - Modified HCBoss, HCPrisnr, HCRunchA, HCRunchB, and HCRunchC to incorporate use of the Espanol Perk
 
 <br>
-
-
-### `Initial Pre-Release`
 
 # **Version 0.4**
 This is the first pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
@@ -58,8 +78,6 @@ This is the first pre-release of the script patch. It is still mostly **untested
 - Fixed DCCtzn and NCHimadr scripts, as they were broken/unfinished at several points
 
 <br>
-
-### `Initial Pre-Release`
 
 # **Version 0.2**
 This is the first pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
