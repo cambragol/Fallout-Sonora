@@ -20,6 +20,7 @@ This release also includes a second file, patch002.dat, which includes the trans
 
 #### What's New
 
+- Finished 'tree-passes' on all of Garage City, Santa Ana, and Flagstaff
 - tweaked some world map messages
 - Keruk changed to Kuyuk, a more authentic Indian (Mojave/Navajo?) name
 - changed overseer Knut to 'Lash'
@@ -41,7 +42,6 @@ This release also includes a second file, patch002.dat, which includes the trans
 - Mortal Stike ability to Slayer perk
 - some small fixes to casino, thanks Fic_Mon
 - some small fixes to Hermosillo, thanks to player playthroughs
-- Finished 'tree-passes' on all of Garage City, Santa Ana, and Flagstaff
 - Brahmin scaps and giblets to 'Brahmin Sausages'
 - military base in Dayglow to naval base
 - Many small fixes thanks to playthroughs from OnlyALad and Fic_Mon
