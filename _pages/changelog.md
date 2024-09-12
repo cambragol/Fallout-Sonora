@@ -10,6 +10,50 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Initial Pre-Release`
+# **Version 0.999**
+This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+This release also includes a second file, patch002.dat, which includes the translations for the Dayglow DLC.
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+
+- tweaked some world map messages
+- Keruk changed to Kuyuk, a more authentic Indian (Mojave/Navajo?) name
+- changed overseer Knut to 'Lash'
+- Flagstaff mines to mine
+- Flagstaff drilling robot and slot machine to drilling machine and pinball game
+- Gulf of California mostly changed to Sea of Cortez, except for Californias.
+- health and speed/disc to 'hit points and healing rate'
+- En Brendly to Anne Brandley
+- Stimpacks to Stimpaks
+- Added Mexican generic, mexican generic eng , and mexican soldier eng to combat taunts to use with Espanol trait (only with patch003.dat)
+- Ranger Citadel to Ranger Base
+- some Spanish fixes thanks to OnlyALad
+- some random encounter tree-passes
+- Some tiny fixes to Villa dialogues thanks to player playthoughs
+- removed many cases of 'Understood.' and replaced with more natural, Fallout 1 derived responses
+- removed last instances of 'sect' for church of holy fire, replaced with 'cult'
+- 'Temple of Fire''Chuch of Fire' consolidated to 'Church of Holy Fire'
+- Ranger Jackson to Jason
+- Mortal Stike ability to Slayer perk
+- some small fixes to casino, thanks Fic_Mon
+- some small fixes to Hermosillo, thanks to player playthroughs
+- Finished 'tree-passes' on all of Garage City, Santa Ana, and Flagstaff
+- Brahmin scaps and giblets to 'Brahmin Sausages'
+- military base in Dayglow to naval base
+- Many small fixes thanks to playthroughs from OnlyALad and Fic_Mon
+
+
+#### Bug Fixes
+- None yet.
+
+
+<br>
+
+### `Initial Pre-Release`
 # **Version 0.998**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
