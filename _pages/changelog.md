@@ -48,7 +48,7 @@ This release also includes a second file, patch002.dat, which includes the trans
 
 
 #### Bug Fixes
-- None yet.
+- Fixed crashing bug in patch001.dat caused by corrupted mainmenu.frm
 
 
 <br>
