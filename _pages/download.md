@@ -5,13 +5,13 @@ include_in_header: true
 ---
 
 # Download
-Download and Install Instructions for Fallout: Sonora, and the Fallout: Sonora Dayglow DLC in English, for Fallout 2 CE.
+Download and Install Instructions for Fallout: Sonora, and the Fallout: Sonora Dayglow DLC in English, for 'Fallout 2 Community Edition' and 'Fallout2.exe'
 
-Click the icons below to download the pre-release translations for Fallout: Sonora or the Sonora Dayglow DLC. The translations are in .dat files, which can be installed by following the 'Install Instructions' below.
+Click one of the icons below to download the pre-release translations for Fallout: Sonora or the Sonora Dayglow DLC. The translations are in .zip files, which can be installed by following the 'Install Instructions' below.
 
 ### `Initial Pre-Releases`
 
-[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Sonora.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat "patch001.dat")[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Dayglow.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch002.dat "patch002.dat") 
+[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Sonora.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng.zip "sonora_eng.zip")[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Dayglow.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC.zip "sonora_eng_DLC.zip") 
 
 <!--### [Download patch001.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat)
 ### [Download patch002.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch002.dat)-->
@@ -19,25 +19,24 @@ Click the icons below to download the pre-release translations for Fallout: Sono
 <br>
 
 ### `Install Instructions for Sonora`
-# **Version 0.999**
+# **Version 0.9.9.10**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
-2. Download [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
-3. Download the .dat file named [patch001.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat) and put it in the install directory of Fallout Sonora
+2. *Optional* Download your OS version of [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
+3. Download the .zip file named [sonora_eng.zip](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng.zip) and unzip it in the install directory of Fallout Sonora
 4. Change the language setting of the fallout2.cfg file to 'english'
-5. Click on 'Fallout II Community Edition' to play the game!
+5. Use 'Fallout II Community Edition' (for macOS and windows and linxu) to play the game, or drop Fallout2.exe (for windows) into the install folder and use it to play the game!
 
 <br>
 
 ### `Install Instructions for Sonora + Dayglow DLC`
-# **Version 0.999**
+# **Version 0.9.9.10**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
-3. Rename patchDLC.dat to patch000.dat
-4. Download [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora
-5. Download the .dat files named [patch001.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat) and [patch002.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch002.dat) and put them in the install directory of Fallout Sonora
-6. Change the language setting of the fallout2.cfg file to 'english'
-7. Click on 'Fallout II Community Edition' to play the game!
+3. *Optional* Download your OS version of [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
+4. Download the .zip file named [sonora_eng_DLC.zip](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC.zip) and unzip it in the install directory of Fallout Sonora
+5. Change the language setting of the fallout2.cfg file to 'english'
+6. Use 'Fallout II Community Edition' (for macOS and windows and linxu) to play the game, or drop Fallout2.exe (for windows) into the install folder and use it to play the game!
 
 <br>
