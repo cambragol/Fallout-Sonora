@@ -9,6 +9,34 @@ This page will keep track of the changes made to new versions of the translation
 
 <br>
 
+### `Pre-Release`
+# **Version 0.9.9.10**
+This is a pre-release of the translation. It is has now been **tested**, with multiple playthroughs. Users who wish to experience the first beta release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+The naming convention for this release has been altered to allow for several more updates prior to the 1.0 release. The formatting of the translation has also been changed, to allow for use in multiple OS and with multiple versions of Fallout2.exe
+The new release format is a single patch file, named patch000.dat
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+
+- massive tree-pass on all of Phoenix
+- complete tree-pass on San Brahmin
+- Tree-pass on Vault 27
+- Standardized some names NPC names, Thalius, Beatriz, German Valdes
+- Sunglasses, jumpsuit, rad ash and several other items renamed, or descriptions fixed
+- Renamed Klek canyon to Clacks Canyon
+- All brahmins to brahmin
+- Fixed 'At War with the Army'
+- Fixed Ranger ending narration
+
+#### Bug Fixes
+- Fixed incorrectly formatted end narration for the Ranger ending
+  
+
+<br>
+
 ### `Initial Pre-Release`
 # **Version 0.999**
 This is the first pre-release of the translation. It is still **untested**, but complete. Users who wish to experience the first release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
