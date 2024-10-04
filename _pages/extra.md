@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Script Patch
-This page contains the optional 'script patch' install file for bugs and dialogue/quest fixes and improvements for Fallout: Sonora + Dayglow DLC.
+This page contains the optional 'script patch' install file for bugs and dialogue/quest fixes and improvements for Fallout: Sonora + Dayglow DLC. It contains over 85 quest, dialogue and general fixes.
 
 This optional patch is now packaged with the base translation, and the DLC translation.
 It is no longer a seperate patch.
@@ -13,6 +13,16 @@ It is no longer a seperate patch.
 This patch and its scripts have had only limited testing, *so use at your own risk*. 
 
 [sonora_eng_DLC_script.zip](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip "sonora_eng_DLC_script.zip")
+
+### `Install Instructions for Sonora + Dayglow DLC + script patch 0.7`
+# **Version 0.9.9.10**
+
+1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
+2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
+3. *Optional* Download your OS version of [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
+4. Download the .zip file named [sonora_eng_DLC_script.zip](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip) and unzip it in the install directory of Fallout Sonora
+5. Change the language setting of the fallout2.cfg file to 'english'
+6. Use 'Fallout II Community Edition' (for macOS and windows and linxu) to play the game, or drop Fallout2.exe (for windows) into the install folder and use it to play the game!
 
 <br>
 
