@@ -23,7 +23,9 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 4. Download the .zip file named [sonora_eng_DLC_script.zip](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip) and unzip it in the install directory of Fallout Sonora
 5. Change the language setting of the fallout2.cfg file to 'english'
 6. Click 'Fallout II Community Edition' (for macOS and windows and linxu) to play the game
-7. **_optional_** Fallout2.exe may be dropped into the install folder to play the game, **or** rename patch000.dat to patchDLC.dat and use FSonora.exe or FSonoraDLC.exe to run the game. Only FSonora.exe or FSonoraDLC.exe will give the correct game start
+
+**_Optional_** - if on windows, Fallout2.exe may be dropped into the install folder to play the game, **or** rename patch000.dat to patchDLC.dat and use FSonora.exe or FSonoraDLC.exe to run the game. Only FSonora.exe or FSonoraDLC.exe will give the correct game start
+
 
 <br>
 
