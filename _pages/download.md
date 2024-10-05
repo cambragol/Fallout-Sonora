@@ -25,7 +25,7 @@ Click one of the icons below to download the pre-release translations for Fallou
 2. *Optional* Download your OS version of [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
 3. Download the .zip file named [sonora_eng.zip](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng.zip) and unzip it in the install directory of Fallout Sonora
 4. Change the language setting of the fallout2.cfg file to 'english'
-5. Use 'Fallout II Community Edition' (for macOS and windows and linxu) to play the game, or rename patch000.dat to patchDLC.dat and you can use FSonora.exe to run the game.
+5. Use 'Fallout II Community Edition' (for macOS and windows and linxu) or Fallout2.exe to play the game, **or** rename patch000.dat to patchDLC.dat and you can use FSonora.exe to run the game.
 
 <br>
 
@@ -37,6 +37,6 @@ Click one of the icons below to download the pre-release translations for Fallou
 3. *Optional* Download your OS version of [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
 4. Download the .zip file named [sonora_eng_DLC.zip](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC.zip) and unzip it in the install directory of Fallout Sonora
 5. Change the language setting of the fallout2.cfg file to 'english'
-6. Use 'Fallout II Community Edition' (for macOS and windows and linxu) to play the game, or rename patch000.dat to patchDLC.dat and you can use FSonora.exe or FSonoraDLC.exe to run the game.
+6. Use 'Fallout II Community Edition' (for macOS and windows and linxu) or Fallout2.exe to play the game, **or** rename patch000.dat to patchDLC.dat and you can use FSonora.exe or FSonoraDLC.exe to run the game.
 
 <br>
