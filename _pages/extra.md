@@ -19,10 +19,11 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
-3. *Optional* Download your OS version of [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
+3. Download your OS version of [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
 4. Download the .zip file named [sonora_eng_DLC_script.zip](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip) and unzip it in the install directory of Fallout Sonora
 5. Change the language setting of the fallout2.cfg file to 'english'
-6. Use 'Fallout II Community Edition' (for macOS and windows and linxu) to play the game, or drop Fallout2.exe (for windows) into the install folder and use it to play the game!
+6. Click 'Fallout II Community Edition' (for macOS and windows and linxu) to play the game
+7. **_optional_** Fallout2.exe may be dropped into the install folder to play the game, **or** rename patch000.dat to patchDLC.dat and use FSonora.exe or FSonoraDLC.exe to run the game. Only FSonora.exe or FSonoraDLC.exe will give the correct game start
 
 <br>
 
