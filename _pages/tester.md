@@ -9,7 +9,7 @@ include_in_header: no
     <div class="feature">
         <div>
             <span class="fa-stack fa-1x">
-                [<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Sonora.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng.zip "sonora_eng.zip")
+                <a url="https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng.zip"><img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Sonora.png" width="300" /></a>
             </span>
         </div>
         <div class="featureText">
