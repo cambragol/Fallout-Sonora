@@ -26,8 +26,7 @@ include_in_header: no
       <div class="feature">
         <div>
             <span class="fa-stack fa-1x">
-                <i class="iconBack fas fa-circle fa-stack-2x"></i>
-                <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
+                [<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Dayglow.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC.zip "sonora_eng_DLC.zip")
             </span>
         </div>
         <div class="featureText">
@@ -43,8 +42,7 @@ include_in_header: no
       <div class="feature">
         <div>
             <span class="fa-stack fa-1x">
-                <i class="iconBack fas fa-circle fa-stack-2x"></i>
-                <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
+                [<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Dayglow.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC.zip "sonora_eng_DLC.zip")
             </span>
         </div>
         <div class="featureText">
