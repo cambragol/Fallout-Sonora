@@ -27,7 +27,7 @@ Click one of the icons below to download the pre-release translations for Fallou
 4. Change the language setting of the fallout2.cfg file to 'english'
 5. Click 'Fallout II Community Edition' (for macOS and windows and linxu) to play the game
 
-**_Optional_** - Fallout2.exe may be dropped into the install folder to play the game, **or** rename patch000.dat to patchDLC.dat and use FSonora.exe or FSonoraDLC.exe to run the game. Only FSonora.exe or FSonoraDLC.exe will give the correct game start
+**_Optional_** - if on windows, Fallout2.exe may be dropped into the install folder to play the game, **or** rename patch000.dat to patchDLC.dat and use FSonora.exe or FSonoraDLC.exe to run the game. Only FSonora.exe or FSonoraDLC.exe will give the correct game start
 <br>
 
 ### `Install Instructions for Sonora + Dayglow DLC`
@@ -40,6 +40,6 @@ Click one of the icons below to download the pre-release translations for Fallou
 5. Change the language setting of the fallout2.cfg file to 'english'
 6. Click 'Fallout II Community Edition' (for macOS and windows and linux) to play the game
 
-**_Optional_** - Fallout2.exe may be dropped into the install folder to play the game, **or** rename patch000.dat to patchDLC.dat and use FSonora.exe or FSonoraDLC.exe to run the game. Only FSonora.exe or FSonoraDLC.exe will give the correct game start
+**_Optional_** - if on windows, Fallout2.exe may be dropped into the install folder to play the game, **or** rename patch000.dat to patchDLC.dat and use FSonora.exe or FSonoraDLC.exe to run the game. Only FSonora.exe or FSonoraDLC.exe will give the correct game start
 
 <br>
