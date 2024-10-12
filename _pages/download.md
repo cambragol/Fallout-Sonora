@@ -19,7 +19,7 @@ Click one of the icons below to download the pre-release translations for Fallou
 <br>
 
 ### `Install Instructions for Sonora`
-# **Version 0.9.9.10**
+# **Version 0.9.9.11**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download your OS version of [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
@@ -31,7 +31,7 @@ Click one of the icons below to download the pre-release translations for Fallou
 <br>
 
 ### `Install Instructions for Sonora + Dayglow DLC`
-# **Version 0.9.9.10**
+# **Version 0.9.9.11**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
