@@ -12,7 +12,7 @@ It is no longer a seperate patch.
 
 This patch and its scripts have had only limited testing, *so use at your own risk*. 
 
-[sonora_eng_DLC_script.zip](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip "sonora_eng_DLC_script.zip")
+[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Screen%20Shot%20Patches.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip "sonora_eng_DLC_script.zip")
 
 ### `Install Instructions for Sonora + Dayglow DLC + script patch 0.8`
 # **Version 0.9.9.11**
