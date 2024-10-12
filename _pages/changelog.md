@@ -10,6 +10,27 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `Pre-Release`
+# **Version 0.9.9.11**
+This is a pre-release of the translation. It is has now been **tested**, with multiple playthroughs. Users who wish to experience the first beta release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+The naming convention for this release has been altered to allow for several more updates prior to the 1.0 release. The formatting of the translation has also been changed, to allow for use in multiple OS and with multiple versions of Fallout2.exe
+The new release format is a single patch file, named patch000.dat
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+
+- Tree-pass on all of Villa
+- small fix to scrname courtesy of Foxx
+
+#### Bug Fixes
+- None
+  
+
+<br>
+
+### `Pre-Release`
 # **Version 0.9.9.10**
 This is a pre-release of the translation. It is has now been **tested**, with multiple playthroughs. Users who wish to experience the first beta release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
