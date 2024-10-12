@@ -14,8 +14,8 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 
 [sonora_eng_DLC_script.zip](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip "sonora_eng_DLC_script.zip")
 
-### `Install Instructions for Sonora + Dayglow DLC + script patch 0.7`
-# **Version 0.9.9.10**
+### `Install Instructions for Sonora + Dayglow DLC + script patch 0.8`
+# **Version 0.9.9.11**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
@@ -30,6 +30,15 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 <br>
 
 ### `Initial Pre-Release`
+
+# **Version 0.8**
+This is the a pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+
+- added small espanol trait use for Jose
+
+<br>
 
 # **Version 0.7**
 This is the a pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
