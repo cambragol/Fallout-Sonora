@@ -14,7 +14,7 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 
 [<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Screen%20Shot%20Patches.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip "sonora_eng_DLC_script.zip")
 
-### `Install Instructions for Sonora + Dayglow DLC + script patch 0.8`
+### `Install Instructions for Sonora + Dayglow DLC + Script Patch 0.8`
 # **Version 0.9.9.11**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
@@ -29,7 +29,7 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 
 <br>
 
-### `Initial Pre-Release`
+### `Script Patch`
 
 # **Version 0.8**
 This is the a pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
