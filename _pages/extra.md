@@ -11,12 +11,10 @@ This optional patch is now packaged with the base translation, and the DLC trans
 It is no longer a seperate patch.
 
 This patch and its scripts have had only limited testing, *so use at your own risk*. 
-<div align="center">
 
 
 [<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Screen%20Shot%20Patches.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip "sonora_eng_DLC_script.zip")
 
-</div>
 
 ### `Install Instructions for Sonora + Dayglow DLC + Script Patch 0.9`
 # **Version 0.9.9.12**
