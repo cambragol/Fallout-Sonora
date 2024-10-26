@@ -14,8 +14,8 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 
 [<img class="center" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Screen%20Shot%20Patches.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip "sonora_eng_DLC_script.zip")
 
-### `Install Instructions for Sonora + Dayglow DLC + Script Patch 0.9`
-# **Version 0.9.9.12**
+### `Install Instructions for Sonora + Dayglow DLC + Script Patch 0.10`
+# **Version 0.9.9.13**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
@@ -30,6 +30,18 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 <br>
 
 ### `Script Patch`
+
+# **Version 0.10**
+This is the a pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+
+- fixed a misdirected node in RCAcvBnd to correct the dialogue
+- fixed a node in RCAcvTlk to complete the 'Fish' trade route for Garage City quest
+- added a bit check in RCBoss to prevent a conversation loop.
+- added a bit check in RCFrmMan to prevent make a conversation start more natural, using existing dialogue lines
+  
+<br>
 
 # **Version 0.9**
 This is the a pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
