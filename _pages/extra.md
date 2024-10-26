@@ -36,10 +36,9 @@ This is the a pre-release of the script patch. It is still mostly **untested**. 
 
 #### Quest and Dialogue Fixes/Improvements
 
-- fixed a misdirected node in RCAcvBnd to correct the dialogue
-- fixed a node in RCAcvTlk to complete the 'Fish' trade route for Garage City quest
-- added a bit check in RCBoss to prevent a conversation loop.
-- added a bit check in RCFrmMan to prevent make a conversation start more natural, using existing dialogue lines
+- SCBoss.ssl added small Spanish Trait use
+- SCShpBoy - fixed incorrect reply in script
+- tweaked PVCOvrser as there was an incorrect reaction result in script
   
 <br>
 
