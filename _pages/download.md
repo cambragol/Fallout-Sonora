@@ -11,8 +11,8 @@ Click one of the icons below to download the pre-release translations for Fallou
 
 ### `Initial Pre-Releases`
   
-[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Sonora.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng.zip "sonora_eng.zip") {: .center-image }
-[<img src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Dayglow.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC.zip "sonora_eng_DLC.zip") {: .center-image }
+[<img class="center-image" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Sonora.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng.zip "sonora_eng.zip")
+[<img class="center-image" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Screen%20Shot%20Dayglow.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC.zip "sonora_eng_DLC.zip")
 
 <!--### [Download patch001.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat)
 ### [Download patch002.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch002.dat)-->
