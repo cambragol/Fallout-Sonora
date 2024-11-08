@@ -9,6 +9,8 @@ Download and Install Instructions for Fallout: Sonora, and the Fallout: Sonora D
 
 Click one of the icons below to download the first release translations for Fallout: Sonora and the Sonora Dayglow DLC. The translations are in .zip files, which can be installed by following the 'Install Instructions' below.
 
+For most users the [Sonora + Dayglow DLC + Script Patch 1.0](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip) version is recommended
+
 ### `First Release`
 
 [<img class="center" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Screen%20Shot%20Patches.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip "sonora_eng_DLC_script.zip")
@@ -21,7 +23,7 @@ Click one of the icons below to download the first release translations for Fall
 
 <br>
 
-### `Install Instructions for Sonora + Dayglow DLC + Script Patch 0.10`
+### `Install Instructions for Sonora + Dayglow DLC + Script Patch 1.0`
 # **Version 1.0**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
