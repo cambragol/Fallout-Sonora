@@ -9,6 +9,27 @@ This page will keep track of the changes made to new versions of the translation
 
 <br>
 
+### `First Release`
+# **Version 1.0**
+This is a first release of the translation. It is has now been completely translated, with 3 full passes, player feedback, and multiple playthroughs. Users who wish to experience the Fallout: Sonora in English may now do so. Users are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+
+- massive tree-pass on all of DLC - Dayglow
+- Thalius to Talius from Fallout 1
+- Villa map names shortened
+- Family relics to family heirlooms in Villa
+- Scrounger's Sense to Scavenger's Instinct - just fits better
+
+#### Bug Fixes
+- None
+
+  
+<br>
+
 ### `Pre-Release`
 # **Version 0.9.9.13**
 This is a pre-release of the translation. It is has now been **tested**, with multiple playthroughs. Users who wish to experience the first beta release are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
