@@ -4,14 +4,94 @@ title: Extra
 include_in_header: true
 ---
 
-# Script Patch
-This page contains the optional 'script patch' (patch003.dat) file for bugs and dialogue/quest fixes and improvements for Fallout: Sonora.
+# Fallout: Sonora - Patched
+This page contains the optional 'patched' install file for bugs and dialogue/quest fixes and improvements for Fallout: Sonora + Dayglow DLC. It contains both the full English translation for the Vanilla version and the Dayglow DLC, along with over 90 quest, dialogue and general fixes. This version of the translation provides the best English experience for Fallout: Sonora.
 
-This optional patch *only* works when both patch001.dat and patch002.dat are being used. Dialogue for these fixes are already contained in the base translation found on patch001.dat and patch002.dat. This 'script' patch file simply activates or gives access to the already included fixes. These fixes do not show up in the vanilla, base translation (though they are there).
+[<img class="center" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Screen%20Shot%20Patches.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip "sonora_eng_DLC_script.zip")
 
-This patch and its scripts have had only limited testing, *so use at your own risk*. 
+### `Install Instructions for Sonora + Dayglow DLC + Script Patch 1.0`
+# **Version 1.0**
 
-[patch003.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch003.dat "patch003.dat")
+1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
+2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
+3. Download your OS version of [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
+4. Download the .zip file named [sonora_eng_DLC_script.zip](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip) and unzip it in the install directory of Fallout Sonora
+5. Change the language setting of the fallout2.cfg file to 'english'
+6. Click 'Fallout II Community Edition' (for macOS and windows and linxu) to play the game
+
+**_Optional_** - if on windows, Fallout2.exe may be dropped into the install folder to play the game, **or** rename patch000.dat to patchDLC.dat and use FSonora.exe or FSonoraDLC.exe to run the game. Only FSonora.exe or FSonoraDLC.exe will give the correct game start
+
+
+<br>
+
+
+### `Script Patch`
+
+# **Version 1.0**
+This is the a first release of the script patch. It is has been tested. Users who wish to experience the most polished version of Fallout: Sonora in English are encouraged to use the script patch in the zip provided above. Uses are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+
+- YCBoss.ssl - restored a node to flesh out mission setup
+- YCGhlMat.ssl - fixed incorrect NodeAnswer
+- YCIsdCrh.ssl - fixed incorrect dialogue option 221 to 222
+- YCLiveB.ssl - added recognition of the Ghoul perk, which was missing, but setup
+- YSMonoGh.ssl - fixed activation point for the Monorail quest when being activated by the monorail supervisor
+  
+<br>
+
+### `Script Patch`
+
+# **Version 0.10**
+This is the a pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+
+- SCBoss.ssl added small Spanish Trait use
+- SCShpBoy - fixed incorrect reply in script
+- tweaked PVCOvrser as there was an incorrect reaction result in script
+  
+<br>
+
+# **Version 0.9**
+This is the a pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+
+- fixed a misdirected node in RCAcvBnd to correct the dialogue
+- fixed a node in RCAcvTlk to complete the 'Fish' trade route for Garage City quest
+- added a bit check in RCBoss to prevent a conversation loop.
+- added a bit check in RCFrmMan to prevent make a conversation start more natural, using existing dialogue lines
+  
+<br>
+
+# **Version 0.8**
+This is the a pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+
+- added small espanol trait use for Jose
+
+<br>
+
+# **Version 0.7**
+This is the a pre-release of the script patch. It is still mostly **untested**. Users who wish to take advantege of the fixes and quest/dialogue improvements are welcome to, though they are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+
+- Fixed BCCrvnQT to make limit the response if Phoenix not known yet
+- BCGarPst - fixed backwards skill check, bonusReaction corrected
+- BCMisBos - fixed Mark_state_visited to Mark_state_unknown
+- BCMisSld - added Espanol trait to spanish song
+- PCGopStp - fixed dialogue options
+- PCMerkBs - Many fixes, head claiming was broken/messed up. Fixed multiple nodes, and dialogue
+- PCBdBos - added alternate answers for one node
+- PCPrtznA - added check to see if PC knows Matthias
+- PCScvTlk - gave armor reaction correct dialogue number
+- PCCasBar - Changed int check from -4 to 1
+- PCAtmBld - Added dialogue node to complete dialogue as written
+- PCAtmBos - added node to makes sense of negative answer to job offer
+- PCAtmClt - added nore graceful conversation exit
 
 <br>
 
