@@ -9,7 +9,7 @@ This page contains the optional 'patched' install file for bugs and dialogue/que
 
 [<img class="center" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Screen%20Shot%20Patches.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip "sonora_eng_DLC_script.zip")
 
-### `Install Instructions for Sonora + Dayglow DLC + Script Patch 0.10`
+### `Install Instructions for Sonora + Dayglow DLC + Script Patch 1.0`
 # **Version 1.0**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
