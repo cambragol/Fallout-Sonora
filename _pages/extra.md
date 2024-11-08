@@ -4,18 +4,13 @@ title: Extra
 include_in_header: true
 ---
 
-# Script Patch
-This page contains the optional 'script patch' install file for bugs and dialogue/quest fixes and improvements for Fallout: Sonora + Dayglow DLC. It contains over 85 quest, dialogue and general fixes.
-
-This optional patch is now packaged with the base translation, and the DLC translation.
-It is no longer a seperate patch.
-
-This patch and its scripts have had only limited testing, *so use at your own risk*. 
+# Fallout: Sonora - Patched
+This page contains the optional 'patched' install file for bugs and dialogue/quest fixes and improvements for Fallout: Sonora + Dayglow DLC. It contains both the full English translation for the Vanilla version and the Dayglow DLC, along with over 90 quest, dialogue and general fixes. This version of the translation provides the best English experience for Fallout: Sonora.
 
 [<img class="center" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Screen%20Shot%20Patches.png" width="300" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9.9/sonora_eng_DLC_script.zip "sonora_eng_DLC_script.zip")
 
 ### `Install Instructions for Sonora + Dayglow DLC + Script Patch 0.10`
-# **Version 0.9.9.13**
+# **Version 1.0**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
@@ -27,6 +22,22 @@ This patch and its scripts have had only limited testing, *so use at your own ri
 **_Optional_** - if on windows, Fallout2.exe may be dropped into the install folder to play the game, **or** rename patch000.dat to patchDLC.dat and use FSonora.exe or FSonoraDLC.exe to run the game. Only FSonora.exe or FSonoraDLC.exe will give the correct game start
 
 
+<br>
+
+
+### `Script Patch`
+
+# **Version 1.0**
+This is the a first release of the script patch. It is has been tested. Users who wish to experience the most polished version of Fallout: Sonora in English are encouraged to use the script patch in the zip provided above. Uses are encouraged to report any bugs at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Quest and Dialogue Fixes/Improvements
+
+- YCBoss.ssl - restored a node to flesh out mission setup
+- YCGhlMat.ssl - fixed incorrect NodeAnswer
+- YCIsdCrh.ssl - fixed incorrect dialogue option 221 to 222
+- YCLiveB.ssl - added recognition of the Ghoul perk, which was missing, but setup
+- YSMonoGh.ssl - fixed activation point for the Monorail quest when being activated by the monorail supervisor
+  
 <br>
 
 ### `Script Patch`
