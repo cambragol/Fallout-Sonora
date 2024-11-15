@@ -24,7 +24,7 @@ This is a first release of the translation. It is has now been completely transl
 - Family relics to family heirlooms in Villa
 - Scrounger's Sense to Scavenger's Instinct - just fits better
 
-#### Script Patch Content
+#### Script Patch Changes
 
 - YCBoss.ssl - restored a node to flesh out mission setup  
 - YCGhlMat.ssl - fixed incorrect NodeAnswer  
