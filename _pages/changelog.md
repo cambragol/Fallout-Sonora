@@ -24,6 +24,92 @@ This is a first release of the translation. It is has now been completely transl
 - Family relics to family heirlooms in Villa
 - Scrounger's Sense to Scavenger's Instinct - just fits better
 
+#### Script Patch Content
+
+- YCBoss.ssl - restored a node to flesh out mission setup  
+- YCGhlMat.ssl - fixed incorrect NodeAnswer  
+- YCIsdCrh.ssl - fixed incorrect dialogue option 221 to 222  
+- YCLiveB.ssl - added recognition of the Ghoul perk, which was missing, but setup  
+- YSMonoGh.ssl - fixed activation point for the Monorail quest when being activated by the monorail supervisor  
+- SCBoss.ssl - added small Spanish Trait use  
+- SCShpBoy.ssl - fixed incorrect reply in script  
+- tweaked PVCOvrser as there was an incorrect reaction result in script  
+- fixed a misdirected node in RCAcvBnd to correct the dialogue  
+- fixed a node in RCAcvTlk to complete the 'Fish' trade route for Garage City quest  
+- added a bit check in RCBoss to prevent a conversation loop.  
+- added a bit check in RCFrmMan to make a conversation start more natural, using existing dialogue lines  
+- added small espanol trait use for Jose  
+- fixed BCCrvnQT to limit the response if Phoenix not known yet  
+- BCGarPst.ssl - fixed backwards skill check, bonusReaction corrected  
+- BCMisBos.ssl - fixed Mark_state_visited to Mark_state_unknown  
+- BCMisSld.ssl - added Espanol trait to Spanish song  
+- PCGopStp.ssl - fixed dialogue options  
+- PCMerkBs.ssl - Many fixes, head claiming was broken/messed up. Fixed multiple nodes, and dialogue  
+- PCBdBos.ssl - added alternate answers for one node  
+- PCPrtznA.ssl - added check to see if PC knows Matthias  
+- PCScvTlk.ssl - gave armor reaction correct dialogue number  
+- PCCasBar.ssl - changed int check from -4 to 1  
+- PCAtmBld.ssl - added dialogue node to complete dialogue as written  
+- PCAtmBos.ssl - added node to make sense of negative answer to job offer  
+- PCAtmClt.ssl - added more graceful conversation exit  
+- upgraded Espanol Trait to translate Mexican and Spanish ‘combat taunts’ (multiple scripts)  
+- fixed bug with Nightkin Boss rescue in Dayglow (YCMutBos.ssl)  
+- fixed incorrect reply bug CCNina.ssl  
+- fixed incorrect reply bug CCCrvBos.ssl  
+- fixed CCBoss.ssl to prevent big response being repeated on main dialogue node  
+- added fix to PCBdLohB.ssl to have floating message of revenge after end of quest  
+- fixed goodbye message in FCSlvRdr.ssl  
+- fixed FCCtznB.ssl to make better transition to offer to cure kid  
+- changed FCBishop to have ‘idiot’ node more in line with other idiot nodes  
+- added ‘Brahmin Sausages’ to Flagstaff barman and used this for food delivery quest (FCBarmen.ssl and FCAdmin.ssl)  
+- added Espanol_Trait to GCPit.ssl dialogue  
+- fixed GCGate.ssl to have correct result for successful perception check - also added Jackal quest ditch node.  
+- added node to GCBrmAtk.ssl to have better responses for buying the brahmin  
+- fixed VCRobot.ssl to differentiate between grandson/daughter, and use Espanol_Trait  
+- added Espanol_Trait to ZIUseStp.ssl  
+- fixed the feedback for ZSblock to not spam 'destroying' process with constant 'look' messages  
+- modified HCBoss, HCPrisnr, HCRunchA, HCRunchB, and HCRunchC to incorporate use of the Espanol Perk  
+- updated OBJ_CAR.ssl to account for trying to power with a Generator Fusion Cell  
+- fixed brahmin quest at Bar to account for buying the brahmin, rather than stealing - GCBarmen.ssl and GCBrmPsA.ssl  
+- fixed TCBoss.ssl to use correct dialogue line when discussing ZAX being destroyed  
+- fixed TCCrvBos.ssl to use correct node when responding to paying for escort  
+- fixed TCCrvQst.ssl to only offer generator cell if the quest is started. Moved quest start as well and added zReply to use amigo/amiga correctly  
+- fixed TCCtzTlk.ssl to add missing dialogue from dialogue file.  
+- fixed TCCult.ssl to give Science check different results. Original had identical results.  
+- fixed TCTins.ssl to make ‘worker’ and ‘guard’ tinsmiths have different ‘look’ descriptions and different floating lines.  
+- fixed NCApcAst.ssl to force the PC to correctly work to get access to pre-war medicines/drugs  
+- multiple small fixes to NCApcBos to improve dialogue and include missing lines  
+- fixed NCQuestA to prevent endlessly introducing oneself  
+- improved NCSilosA.ssl to make dialogue smoother  
+- modified ZcImgrnt, DCCtznE, NCHimadr, NCMer, HCPost, HCSolder, HSComp, ACCtzCav, CCBosGrd, CCNina, CCNinb, AFTinTan, and EncMexSC script files to standardize Spanish_trait handling.  
+- fixed DCCtzn and NCHimadr scripts, as they were broken/unfinished at several points  
+- fixed incorrect text line reference in MCRio.ssl  
+- fixed incorrect text line reference in MCBoss.ssl  
+- finished incomplete and non-working scripting for DCCtznE.ssl  
+- added intermediary steps and dialogue logic to ‘Brahmin Quest’ in GCBrmAtk.ssl  
+- fixes to dialogue logic to discuss looking for Villa people that are already found - FCMadre.ssl  
+- fixes to end of quest for freeing trapped Villa kin, added dialogue on Mine Exit - FCVillaA.ssl  
+- fixes to FCBoss.ssl to make the idiot PC Rat King quest work  
+- fixes to pinball machine quest in FCBarmen.ssl  
+- made PCDrgdlr.ssl push his stuff with floating lines  
+- fixed all three Sonora express scripts so PC recognizes after visiting one  
+- fixed Phoenix Sonora express ‘letter’ quest to have better dialogue logic - PCPost.ssl  
+- fixed RCAcvTlk.ssl to have better dialogue logic  
+- added mid-quest feedback for ‘spy quest’ to PCMaster.ssl  
+- added mid-radio-quest feedback and dialogue logic to RCComndr.ssl  
+- fixed dialogue logic and ‘spy’ quest for RCRngRad.ssl  
+- added fixes to start of quest with RCPresly.ssl  
+- fixes to RCAgata.ssl to fix start of quest with Presley  
+- changed coordinates of repeater in ZIRadio.ssl  
+- fixed CCNina.ssl to make Spanish perk work correctly  
+- fixed quest to restore power to Monorail in YSMonoGh.ssl  
+- added clues and improvements to AFGold ‘map’ quest  
+- multiple fixes to the ‘survey’ quest in RCRngMap.ssl  
+- fixes to ZTMap.ssl for Jackals raid quest and Inferno Robot event bug  
+- fixes to GCGate.ssl dialogues for Jackal quest and first visit  
+- added fixes to ‘Jackal attack’ quest in GCMercJc.ssl, and added quest fail consequences  
+
+
 #### Bug Fixes
 - None
 
