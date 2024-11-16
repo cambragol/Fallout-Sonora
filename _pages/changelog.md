@@ -109,6 +109,10 @@ This is a first release of the translation. It is has now been completely transl
 - fixes to GCGate.ssl dialogues for Jackal quest and first visit  
 - added fixes to ‘Jackal attack’ quest in GCMercJc.ssl, and added quest fail consequences  
 
+#### Thanks
+- All the players who took the time to report issues over at the NMA forum thread, in particular Fallout_Boy, Fic_Mon, gusterballs1983, OnlyALad, Perry The Chucktopus, Goat_Boy, Foxx, GrizzlyPA and others. I couldn't have done it without your input and support
+- Nevada Band for the game
+- Legions of modders who made the tools I was able to use to mod Fallout 2
 
 #### Bug Fixes
 - None
