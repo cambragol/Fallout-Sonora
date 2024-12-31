@@ -4,7 +4,7 @@ title: Download
 include_in_header: true
 ---
 
-# Download
+# Download Version 1.01
 Download and Install Instructions for Fallout: Sonora, and the Fallout: Sonora Dayglow DLC in English, for 'Fallout 2 Community Edition' and 'Fallout2.exe'
 
 Click one of the icons below to download the first release translations for Fallout: Sonora and the Sonora Dayglow DLC. The translations are in .zip files, which can be installed by following the 'Install Instructions' below.
