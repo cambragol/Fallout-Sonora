@@ -10,6 +10,64 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 ### `First Release`
+# **Version 1.01**
+This is a first release of the translation. It is has now been completely translated, with 3 full passes, player feedback, and multiple playthroughs. Users who wish to experience the Fallout: Sonora in English may now do so. Users are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Based On
+- Fallout: Sonora 1.14 and Dayglow DLC 1.14
+
+#### What's New
+
+- multiple missing punctuation marks fixed
+- multiple small changes to items names (hip flask, Jackal Storeroom keys etc.)
+- multiple small spelling errors fixed
+- Small Weapon/Large Weapon fixed to Small Guns/Big Guns in one location
+- Jackal 'holes' fixed to 'dens'
+- small fix to VCBandit.msg
+- old world standardized to 'Old World'
+- some pig-rat entries to 'pig rat'
+- added art files for Spanish translation
+- fixed multiple small typos, capitalization, commas etc.
+- Mr. Helper corrected to Handy in several locations.
+- Vault capitalization touched, but not completely standardized, as in Fallout 1
+- Power Armor standardized to proper noun.
+- caravaneers fixed to carvanners
+- Some lines in ZTmap fixed/improved
+- Henry Beamis fixed to Henry Bemis, and J. Crook fixed to G. Crook
+- All 'min. strength:' standardized to Min ST: as in Fallout 1
+- Broken Staircase corrected to Broken Ladder
+- 'Deliver a report to Ranger' mission fixed to 'Retrieve a report'
+- 'mainline' fixed to Blue Shields.
+- Overseer Whip instance fixed to 'Overseer Lash'
+- All Pescador references fixded to 'fishermen'
+- Spanish accents added to Gloria, to test for now.
+- council of elders in San Brahmin capitalised as proper noun
+- fixed Brotherhood 'clerk' references to 'scribe'
+- master key references fixed to 'lockpick'
+- 'is  now in your backpack' fixed to 'added to your inventory'
+- Small fixes to Rio's dialogue
+- fixes Casa Neuva plantation quest instructions
+- small fixes to Casino bartender in Phoenix
+- small fixes to ZAX dialogue
+- small fixes to Villa dialogues - hangar references to barn
+- Stealth references to Sneak
+
+#### Script Patch Fixes
+
+- Fixes to Jackal raid quest in ZTMap.ssl, and GCGate.ssl
+- Made asking about drilling machine parts mutually exclusive with telling that it is fixed - FCAdmin
+- Made Villa marauders leave if Sancho or Hugo return - FCVillA or FCVillB
+- fixed bug in drilling machine quest that made broke it if light restored before fixing machine. Also restored fade for machine fixing - FSRobot.ssl and FSTransf.ssl
+
+#### Thanks
+- Zaius238 and OnlyALad for many typos and dialogue fixes
+
+#### Bug Fixes
+- added AI.txt to data folder, without which translated combat taunts does not work
+
+
+
+### `First Release`
 # **Version 1.0**
 This is a first release of the translation. It is has now been completely translated, with 3 full passes, player feedback, and multiple playthroughs. Users who wish to experience the Fallout: Sonora in English may now do so. Users are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
