@@ -27,9 +27,8 @@ This is a first release of the translation. It is has now been completely transl
 - small fix to VCBandit.msg
 - old world standardized to 'Old World'
 - some pig-rat entries to 'pig rat'
-- added art files for Spanish translation
 - fixed multiple small typos, capitalization, commas etc.
-- Mr. Helper corrected to Handy in several locations.
+- Mr. Helper corrected to Mr. Handy in several locations.
 - Vault capitalization touched, but not completely standardized, as in Fallout 1
 - Power Armor standardized to proper noun.
 - caravaneers fixed to carvanners
