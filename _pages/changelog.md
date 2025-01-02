@@ -12,7 +12,7 @@ This page will keep track of the changes made to new versions of the translation
 
 ### `First Release`
 # **Version 1.01**
-This is a first release of the translation. It is has now been completely translated, with 3 full passes, player feedback, and multiple playthroughs. Users who wish to experience the Fallout: Sonora in English may now do so. Users are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+This is an update of the first release of the translation. Users are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
 #### Based On
 - Fallout: Sonora 1.14 and Dayglow DLC 1.14
