@@ -31,8 +31,8 @@ For most users the [Sonora + Dayglow DLC + Script Patch 1.0](https://github.com/
 
 <br>
 
-### `Install Instructions for Sonora + Dayglow DLC + Script Patch 1.0`
-# **Version 1.0**
+### `Install Instructions for Sonora + Dayglow DLC + Script Patch 1.01`
+# **Version 1.01**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
@@ -47,7 +47,7 @@ For most users the [Sonora + Dayglow DLC + Script Patch 1.0](https://github.com/
 <br>
 
 ### `Install Instructions for Sonora + Dayglow DLC`
-# **Version 1.0**
+# **Version 1.01**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
@@ -61,7 +61,7 @@ For most users the [Sonora + Dayglow DLC + Script Patch 1.0](https://github.com/
 <br>
 
 ### `Install Instructions for Sonora`
-# **Version 1.0**
+# **Version 1.01**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download your OS version of [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
