@@ -11,6 +11,40 @@ This page will keep track of the changes made to new versions of the translation
 
 
 ### `First Release`
+# **Version 1.02**
+This is an update of the first release of the translation. It addresses updates to the 1.14+ release from Nevada Band. Users are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Based On
+- Fallout: Sonora 1.14+ and Dayglow DLC 1.14
+
+#### What's New
+
+- changed multiple 'Stairs' to 'Ladders' - hopefully correct now.
+- updated RCRngMap.msg, AFGold.msg, and SCBoss.msg to match Nevada Band's new Russian dialogue additions.
+- fixed some possible font issues in PIPBOY.msg
+- fixed various item names in pro_item, to sync with wiki
+- fixed Stealth Bio slightly
+- fixed a few instances of 'here are your' to 'here's your' - more colloquial
+- a few small style fixes in Garage City, explaining 'mine' more.
+- Changed all instances of [Next] to [More] to align with Fallout 1
+- surgical kit to doctor's bag in all dialogues
+- Captain Helford to 'commander'
+- Stamina to Endurance in several locations
+- Fixed mis-translated line in ZSDoor.msg 'You haven't even left a mark on the door'
+
+#### Script Patch Fixes
+
+- updated several scripts VCRobot,RCRngMap,SCBoss, HCRunchA,HCRunchB, and AFGold to match Nevada Band's 1.14+ changes
+- added more Spanish translation to GCPit.ssl
+
+#### Thanks
+- OnlyALad and QuantumApprentice for typos and dialogue fixes
+
+#### Bug Fixes
+
+
+
+### `First Release`
 # **Version 1.01**
 This is an update of the first release of the translation. Users are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
