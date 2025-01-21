@@ -11,6 +11,28 @@ This page will keep track of the changes made to new versions of the translation
 
 
 ### `First Release`
+
+# **Version 1.03**
+This is an update of the first release of the translation. It addresses issues with some DLC content where dialogues and descriptions were displaying 'error' or '-DLC' messages. Users are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Based On
+- Fallout: Sonora 1.14+ and Dayglow DLC 1.14
+
+#### What's New
+
+- adds gender specific 'amigo/amiga' comments for all relevent dialogues
+- standardizes agave juice to agave syrup.
+- Himador to Agave Farmer
+
+#### Script Patch Fixes
+
+- updated multiple scripts for 'amigo/amiga' 
+
+#### Bug Fixes
+
+- fixes to DLC that were giving 'error' or '-DLC' messages
+
+
 # **Version 1.02**
 This is an update of the first release of the translation. It addresses updates to the 1.14+ release from Nevada Band. Users are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
 
