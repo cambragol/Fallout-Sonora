@@ -17,7 +17,7 @@ Determine the version that is best for you:
 
 3. sonora_eng.zip is used with a vanilla install of Fallout: Sonora, that does not include the Dayglow DLC. Pure Vanilla.
 
-For most users the [Sonora + Dayglow DLC + Script Patch 1.02](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.0/sonora_eng_DLC_script.zip) version is recommended
+For most users the [Sonora + Dayglow DLC + Script Patch 1.03](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.0/sonora_eng_DLC_script.zip) version is recommended
 
 ### `First Release`
 
