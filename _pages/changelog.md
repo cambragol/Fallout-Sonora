@@ -23,6 +23,7 @@ This is an update of the first release of the translation. It addresses issues w
 - adds gender specific 'amigo/amiga' comments for all relevent dialogues
 - standardizes agave juice to agave syrup.
 - Himador to Agave Farmer
+- mutiple small fixes to descriptions and dialogues
 
 #### Script Patch Fixes
 
