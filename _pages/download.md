@@ -4,7 +4,7 @@ title: Download
 include_in_header: true
 ---
 
-# Download Version 1.02
+# Download Version 1.03
 Download and Install Instructions for Fallout: Sonora, and the Fallout: Sonora Dayglow DLC in English, for 'Fallout 2 Community Edition' and 'Fallout2.exe'
 
 Click one of the icons below to download the first release translations for Fallout: Sonora and the Sonora Dayglow DLC. The translations are in .zip files, which can be installed by following the 'Install Instructions' below.
@@ -31,8 +31,8 @@ For most users the [Sonora + Dayglow DLC + Script Patch 1.02](https://github.com
 
 <br>
 
-### `Install Instructions for Sonora + Dayglow DLC + Script Patch 1.02`
-# **Version 1.02**
+### `Install Instructions for Sonora + Dayglow DLC + Script Patch 1.03`
+# **Version 1.03**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
@@ -47,7 +47,7 @@ For most users the [Sonora + Dayglow DLC + Script Patch 1.02](https://github.com
 <br>
 
 ### `Install Instructions for Sonora + Dayglow DLC`
-# **Version 1.02**
+# **Version 1.03**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download and unpack [Dayglow DLC](https://cloud.mail.ru/public/s3bg/oiJr6N1Gh) into the install directory of Fallout Sonora, created above
@@ -61,7 +61,7 @@ For most users the [Sonora + Dayglow DLC + Script Patch 1.02](https://github.com
 <br>
 
 ### `Install Instructions for Sonora`
-# **Version 1.02**
+# **Version 1.03**
 
 1. Download and install [Fallout Sonora](https://cloud.mail.ru/public/jsg1/HSrkfMyPB)
 2. Download your OS version of [Fallout 2 CE](https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0) and put it in the install directory of Fallout Sonora, created above
