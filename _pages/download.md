@@ -38,9 +38,10 @@ Determine the version that is best for you:
 
 1. Download the Fallout Sonora .zip (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.05/Fallout_Sonora.zip))
 2. Unzip the .zip file to the location of your choice. This is the 'Install' folder.
-3. Within the unzipped folder, unzip the Fallout Sonora exe .zip file for your system (Windows x64, Windows x32, etc.)
+3. Within the unzipped 'Install' folder, select and unzip the Fallout Sonora exe .zip file for your system (Windows x64, Windows x32, etc.)
 4. Place the contents of the unzipped Fallout Sonora exe .zip file into your Install folder.
 5. Click the exe to play
+   
 **_Note_** - Other OSs (Linux, Android etc) are not tested, and unsupported, and may not work.
 
 <br>
