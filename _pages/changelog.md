@@ -10,6 +10,24 @@ This page will keep track of the changes made to new versions of the translation
 <br>
 
 
+### `Second Release`
+
+# **Version 1.05**
+This is a new, second release of the translation. It combines the original Sonora and Dayglow DLC into a single unified download. It is also a full conversion to English, of all files, excluding comments within included script sources. Users are encouraged to report any bugs, errors in flow, strange speech etc. at the [NMA Thread](https://www.nma-fallout.com/threads/fallout-sonora-1-14-vanilla-translation.222396/).
+
+#### Based On
+- Fallout: Sonora 1.15 and Dayglow DLC 1.15
+
+#### What's New
+
+- All files translated to English and combined in a single download
+
+#### Bug Fixes
+
+- Numerous small fixes to dialoges thanks to malaise_chalk and DweltVauller
+- Small fixes to several maps (rcity and tsgrave) thanks to Zaius238
+
+
 ### `First Release`
 
 # **Version 1.04**
