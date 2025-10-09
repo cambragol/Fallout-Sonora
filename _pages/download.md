@@ -27,7 +27,7 @@ Determine the version that is best for you:
 ### `Install Instructions for Fallout Sonora on MacOS`
 # **Version 1.05**
 
-1. Download the Fallout Sonora .dmg (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.05/Fallout-Sonora.dmg)
+1. Download the Fallout Sonora .dmg (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.05/Fallout-Sonora.dmg))
 2. Open the .dmg and drag the Fallout Sonora app to your Applications folder
 3. Click on the application to play. (you will have to adjust your security settings because the app is 'unsigned')
 
@@ -36,7 +36,7 @@ Determine the version that is best for you:
 ### `Install Instructions for Fallout Sonora on Windows`
 # **Version 1.05**
 
-1. Download the Fallout Sonora .zip (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.05/Fallout_Sonora.zip)
+1. Download the Fallout Sonora .zip (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.05/Fallout_Sonora.zip))
 2. Unzip the .zip file to the location of your choice. This is the 'Install' folder.
 3. Within the unzipped folder, unzip the Fallout Sonora exe .zip file for your system (Windows x64, Windows x32, etc.)
 4. Place the contents of the unzipped Fallout Sonora exe .zip file into your Install folder.
