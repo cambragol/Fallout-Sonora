@@ -14,16 +14,13 @@ Determine the version that is best for you:
 1. Fallout-Sonora.dmg is for macOS users.  
 
 2. Fallout_Sonora.zip is for Windows and other OS users (linux, etc.)
-3. 
 
-### `First Release`
+
+### `Second Release`
 
 [<img class="center" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Sonora_Mac.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.05/Fallout-Sonora.dmg "Fallout Sonora MacOS")
 [<img class="center-image" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Sonora_Win.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.05/Fallout_Sonora.zip "Fallout Sonora Windows")
 
-
-<!--### [Download patch001.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch001.dat)
-### [Download patch002.dat](https://github.com/cambragol/Fallout-Sonora-English/releases/download/0.9/patch002.dat)-->
 
 <br>
 
