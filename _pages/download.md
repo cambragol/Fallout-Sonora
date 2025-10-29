@@ -40,8 +40,7 @@ Determine the version that is best for you:
 2. Unzip the .zip file to the location of your choice. This is the 'Install' folder.
 5. Click fallout-sonora-x64.exe to play.
 
-**_Note_** - Other OSs executives can be found in the respective fallout_sonora.xxx.zip file.
-**_Note_** - Other OSs (Linux, Android etc) are not tested, and unsupported, and may not work.
+**_Note_** - Other OSs executives can be found in the respective fallout_sonora.xxx.zip file. Other OSs (Linux, Android etc) are not tested, and unsupported, and may not work.
 
 <br>
 
