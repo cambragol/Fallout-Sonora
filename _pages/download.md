@@ -7,7 +7,7 @@ include_in_header: true
 # Download Version 1.05
 Download and Install Instructions for Fallout: Sonora
 
-Click one of the icons below to download the second release for Fallout: Sonora in English. This release contains the full Fallout Sonora, and Sonora Dayglow DLC, in English.
+Click one of the icons below to download the second release for Fallout: Sonora in English. This release contains the full Fallout Sonora, and Sonora Dayglow DLC, in English. Furthermore, all settings have been incorporated into the 'in-game' options/preferences screen. Advanced settings can be adjusted in the fallout2.cfg file in the [sfall] sections.
 
 Determine the version that is best for you:
 
@@ -40,7 +40,7 @@ Determine the version that is best for you:
 2. Unzip the .zip file to the location of your choice. This is the 'Install' folder.
 5. Click fallout-sonora-x64.exe to play.
 
-**_Note_** - Other OSs executives can be found in the respective fallout_sonora.xxx.zip file. Other OSs (Linux, Android etc) are not tested, and unsupported, and may not work.
+**_Note_** - Other OSs executives can be found in the respective fallout_sonora.xxx.zip file. Other OSs (Linux, Android etc) are not tested, and unsupported, and may not work. 
 
 <br>
 
