@@ -7,7 +7,7 @@ include_in_header: true
 # Download Version 1.05
 Download and Install Instructions for Fallout: Sonora
 
-Click one of the icons below to download the second release for Fallout: Sonora in English.
+Click one of the icons below to download the second release for Fallout: Sonora in English. This release contains the full Fallout Sonora, and Sonora Dayglow DLC, in English.
 
 Determine the version that is best for you:
 
