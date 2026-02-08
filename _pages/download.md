@@ -4,39 +4,39 @@ title: Download
 include_in_header: true
 ---
 
-# Download Version 1.05
+# Download Version 1.16E
 Download and Install Instructions for Fallout: Sonora
 
 Click one of the icons below to download the second release for Fallout: Sonora in English. This release contains the full Fallout Sonora, and Sonora Dayglow DLC, in English. Furthermore, all settings have been incorporated into the 'in-game' options/preferences screen. Advanced settings can be adjusted in the fallout2.cfg file in the [sfall] sections.
 
 Determine the version that is best for you:
 
-1. Fallout-Sonora.dmg is for macOS users.  
+1. Fallout-Sonora 1.16E.dmg is for macOS users.  
 
-2. Fallout_Sonora.zip is for Windows and other OS users (linux, etc.)
+2. Fallout-Sonora 1.16E.zip is for Windows and other OS users (linux, etc.)
 
 
 ### `Second Release`
 
-[<img class="center" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Sonora_Mac.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.05/Fallout-Sonora.dmg "Fallout Sonora MacOS")
-[<img class="center-image" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Sonora_Win.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.05/Fallout_Sonora.zip "Fallout Sonora Windows")
+[<img class="center" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Sonora_Mac.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout-Sonora.1.16E.dmg "Fallout Sonora MacOS")
+[<img class="center-image" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Sonora_Win.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout-Sonora.1.16E.zip "Fallout Sonora Windows")
 
 
 <br>
 
 ### `Install Instructions for Fallout Sonora on MacOS`
-# **Version 1.05**
+# **Version 1.16E**
 
-1. Download the Fallout Sonora .dmg (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.05/Fallout-Sonora.dmg))
+1. Download the Fallout Sonora .dmg (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout-Sonora.1.16E.dmg))
 2. Open the .dmg and drag the Fallout Sonora app to your Applications folder
 3. Click on the application to play. (you will have to adjust your security settings because the app is 'unsigned')
 
 <br>
 
 ### `Install Instructions for Fallout Sonora on Windows`
-# **Version 1.05**
+# **Version 1.16E**
 
-1. Download the Fallout Sonora .zip (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.05/Fallout_Sonora.zip))
+1. Download the Fallout Sonora .zip (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout-Sonora.1.16E.zip))
 2. Unzip the .zip file to the location of your choice. This is the 'Install' folder.
 5. Click fallout-sonora-x64.exe to play.
 
