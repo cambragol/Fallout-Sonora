@@ -19,7 +19,7 @@ Determine the version that is best for you:
 ### `Second Release`
 
 [<img class="center" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Sonora_Mac.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout-Sonora.1.16E.dmg "Fallout Sonora MacOS")
-[<img class="center-image" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Sonora_Win.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout-Sonora.1.16E.zip "Fallout Sonora Windows")
+[<img class="center-image" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Sonora_Win.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout_Sonora.1.16E.zip "Fallout Sonora Windows")
 
 
 <br>
@@ -36,7 +36,7 @@ Determine the version that is best for you:
 ### `Install Instructions for Fallout Sonora on Windows`
 # **Version 1.16E**
 
-1. Download the Fallout Sonora .zip (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout-Sonora.1.16E.zip))
+1. Download the Fallout Sonora .zip (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout_Sonora.1.16E.zip))
 2. Unzip the .zip file to the location of your choice. This is the 'Install' folder.
 5. Click fallout-sonora-x64.exe to play.
 
