@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
-This page will keep track of the changes made to new versions of the translation.
+This page will keep track of the changes made to new versions of Fallout: Sonora - English version.
 
 <br>
 
@@ -19,8 +19,9 @@ This page will keep track of the changes made to new versions of the translation
 
 #### Notes
 
-Important! For version 1.16, you must update both the main game and the DLC if you choose to install it.
-Important! Saves from previous versions of 1.16 will sometimes not work correctly - you must start a new game! Changes that affect previous saves are marked with a double snowflake **.
+This version contains, English, Spanish, and the original Russian version - to change languages adjust in the fallout2.cfg file
+**Note** Spanish version is not updated to 1.16 and is still at the 1.15 state.
+**Important!** Saves from previous versions of 1.16 will sometimes not work correctly - **you must start a new game!** Changes that affect previous saves are marked with a double snowflake **.
 
 #### What's New
 
