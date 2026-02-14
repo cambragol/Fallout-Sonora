@@ -12,6 +12,26 @@ This page will keep track of the changes made to new versions of Fallout: Sonora
 
 ### `English Release`
 
+# **Version 1.16.1E**
+
+#### Based On
+- Fallout: Sonora 1.16 and Dayglow DLC 1.16
+
+#### Notes
+
+This version contains, English, Spanish, and the original Russian version - to change languages adjust in the fallout2.cfg file
+Also includes left-click inventory sorting and left-shift item highligting. A "strict vanilla" mode has been added to play closer to vanilla Fallout 2
+
+**Note** Spanish version is not updated to 1.16 and is still at the 1.15 state.
+**Important!** Saves from previous versions of 1.16 will sometimes not work correctly
+**you must start a new game!** Changes that affect previous saves are marked with a double snowflake **.
+
+#### What's New
+
+- Many small fixes to script merge between Nevada Band's 1.16 release and the 1.15+E English release - thanks NovaRain
+- small fixes to accompanying message files - thanks NovaRain
+
+
 # **Version 1.16E**
 
 #### Based On
