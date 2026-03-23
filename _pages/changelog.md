@@ -12,6 +12,26 @@ This page will keep track of the changes made to new versions of Fallout: Sonora
 
 ### `English Release`
 
+# **Version 1.16.2E**
+
+#### Based On
+- Nevada Band's Fallout: Sonora 1.16.1a and Dayglow DLC 1.16.1a
+
+#### Notes
+
+This version contains, English, Spanish, and the original Russian version - to change languages adjust in the fallout2.cfg file
+Also includes left-click inventory sorting and left-shift item highligting. A "strict vanilla" mode has been added to play closer to vanilla Fallout 2
+
+**Note** Spanish version is now updated to 1.16.2
+**Important!** Saves from previous versions 1.16 *may* not work correctly
+
+#### What's New
+
+- ​​Garage City: Removed an unnecessary line from the gate guard when asking about weapons.
+- Updated the code for the "Intimidation" perk.
+- Rewrote the Deathclaw lure mechanic from mvar (map-specific) to gvar (universal).
+  
+
 # **Version 1.16.1E**
 
 #### Based On
