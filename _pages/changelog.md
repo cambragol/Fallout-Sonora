@@ -30,6 +30,7 @@ Also includes left-click inventory sorting and left-shift item highligting. A "s
 - ​​Garage City: Removed an unnecessary line from the gate guard when asking about weapons.
 - Updated the code for the "Intimidation" perk.
 - Rewrote the Deathclaw lure mechanic from mvar (map-specific) to gvar (universal).
+- Many small dialogue fixes from Apexian and Nighthearted
   
 
 # **Version 1.16.1E**
