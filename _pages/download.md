@@ -13,7 +13,7 @@ Determine the version that is best for you:
 
 1. Fallout-Sonora 1.16.2E.dmg is for macOS users.  
 
-2. Fallout-Sonora 1.16.2E.zip is for Windows and other OS users (linux, etc.)
+2. Fallout-Sonora 1.16.2E.zip is for Windows and other OS users (linux, etc.) Note: Windows and other versions have limited support/testing
 
 
 ### `Full English/Spanish/Russian Release`
@@ -40,7 +40,7 @@ Determine the version that is best for you:
 2. Unzip the .zip file to the location of your choice. This is the 'Install' folder.
 5. Click fallout-sonora-x64.exe to play.
 
-**_Note_** - Other OSs executives can be found in the respective fallout_sonora.xxx.zip file. Other OSs (Linux, Android etc) are not tested, and unsupported, and may not work. 
+**_Note_** - Windows and other OSs executives can be found in the respective fallout_sonora.xxx.zip file. Windows and other OSs (Linux, Android etc) are not tested, and unsupported, and may not work. 
 **_Language_** - Language can be set in fallout2.cfg: english, spanish, or russian
 
 <br>
