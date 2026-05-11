@@ -9,9 +9,27 @@ This page will keep track of the changes made to new versions of Fallout: Sonora
 
 <br>
 
-
 ### `English Release`
 
+# **Version 1.16.3E**
+
+#### Based On
+- Nevada Band's Fallout: Sonora 1.16.1a and Dayglow DLC 1.16.1a
+
+#### Notes
+
+This version contains, English, Spanish, and the original Russian version - to change languages adjust in the fission.cfg file
+This version is also updated to the latest FISSION version - see details of additional features [here](https://cambragol.github.io/fallout-fission/)
+
+**Note** Spanish version is now updated to 1.16.3
+**Important!** Saves from previous versions 1.16 *may* not work correctly
+
+#### What's New
+
+- Small fixes to Spanish Text
+- Bug fix that prevented starting with a new or edited character in Spanish Game
+
+  
 # **Version 1.16.2E**
 
 #### Based On
