@@ -4,44 +4,44 @@ title: Download
 include_in_header: true
 ---
 
-# Download Version 1.16.2E
+# Download Version 1.16.3E
 Download and Install Instructions for Fallout: Sonora English Version
 
-Click one of the icons below to download the full release for Fallout: Sonora in English. This release contains the full Fallout Sonora, and Sonora Dayglow DLC, in English,Russian and Spanish. All game and graphics settings have been incorporated into the 'in-game' options/preferences screen. Advanced settings can be adjusted in the fallout2.cfg file in the [enhancements] sections.
+Click one of the icons below to download the full release for Fallout: Sonora in English. This release contains the full Fallout Sonora, and Sonora Dayglow DLC, in English,Russian and Spanish. All game and graphics settings have been incorporated into the 'in-game' options/preferences screen. Advanced settings can be adjusted in the fission.cfg file in the [enhancements] sections.
 
 Determine the version that is best for you:
 
-1. Fallout-Sonora 1.16.2E.dmg is for macOS users.  
+1. Fallout-Sonora 1.16.3E.dmg is for macOS users.  
 
-2. Fallout-Sonora 1.16.2E.zip is for Windows and other OS users (linux, etc.) Note: Windows and other versions have limited support/testing
+2. Fallout-Sonora 1.16.3E.zip is for Windows and other OS users (linux, etc.) Note: Windows and other versions have limited support/testing
 
 
 ### `Full English/Spanish/Russian Release`
 
-[<img class="center" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Sonora_Mac.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout-Sonora_1.16.2E.dmg "Fallout Sonora MacOS")
-[<img class="center-image" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Sonora_Win.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout_Sonora_1.16.2E.zip "Fallout Sonora Windows")
+[<img class="center" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/refs/heads/main/assets/Sonora_Mac.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16.3/Fallout-Sonora_1.16.3E.dmg "Fallout Sonora MacOS")
+[<img class="center-image" src="https://raw.githubusercontent.com/cambragol/Fallout-Sonora/main/assets/Sonora_Win.png" width="200" />](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16.3/Fallout_Sonora_1.16.3E.zip "Fallout Sonora Windows")
 
 
 <br>
 
 ### `Install Instructions for Fallout Sonora on MacOS`
-# **Version 1.16.2E**
+# **Version 1.16.3E**
 
-1. Download the Fallout-Sonora_1.16.2E.dmg (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout-Sonora_1.16.2E.dmg))
+1. Download the Fallout-Sonora_1.16.3E.dmg (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16.3/Fallout-Sonora_1.16.3E.dmg))
 2. Open the .dmg and drag the Fallout Sonora app to your Applications folder
 3. Click on the application to play. (you will have to adjust your security settings because the app is 'unsigned')
 
 <br>
 
 ### `Install Instructions for Fallout Sonora on Windows`
-# **Version 1.16.2E**
+# **Version 1.16.3E**
 
-1. Download the Fallout_Sonora_1.16.2E.zip (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16/Fallout_Sonora_1.16.2E.zip))
+1. Download the Fallout_Sonora_1.16.3E.zip (found [Here](https://github.com/cambragol/Fallout-Sonora-English/releases/download/1.16.3/Fallout_Sonora_1.16.3E.zip))
 2. Unzip the .zip file to the location of your choice. This is the 'Install' folder.
 5. Click fallout-sonora-x64.exe to play.
 
 **_Note_** - Windows and other OSs executives can be found in the respective fallout_sonora.xxx.zip file. Windows and other OSs (Linux, Android etc) are not tested, and unsupported, and may not work. 
-**_Language_** - Language can be set in fallout2.cfg: english, spanish, or russian
+**_Language_** - Language can be set in fission.cfg: english, spanish, or russian
 
 <br>
 
